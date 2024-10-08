@@ -58,9 +58,16 @@ h2 {
     color: #718096;
 }
 
-.blog-image {
+.blog-image1 {
     float: left;
-    margin-right: 15px;
+    margin-left: 15px;
+    width: 150px;
+    height: auto;
+}
+
+.blog-image2 {
+    float: left;
+    margin-left: 15px;
     width: 150px;
     height: auto;
 }
