@@ -34,9 +34,9 @@ p {
 }
 
 .profile-pic {
-    border-radius: 70%;
-    height: 100px;
-    width: 100px;
+    border-radius: 50%;
+    height: 150px;
+    width: 150px;
     margin-top: 10px;
 }
 
@@ -73,7 +73,7 @@ h2 {
 }
 
 aside {
-    grid-column: 2 / 3;
+    grid-column: 3 / 3;
 }
 
 aside h3 {
